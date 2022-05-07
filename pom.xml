@@ -63,11 +63,8 @@
 			<plugin>
           <groupId>org.apache.maven.plugins</groupId>
           <artifactId>maven-surefire-plugin</artifactId>
-          </plugin>
-	        <plugin>
-	            <groupId>org.apache.maven.plugins</groupId>
-	            <artifactId>maven-compiler-plugin</artifactId>
-	        </plugin>
+          <version>2.19.1</version>
+        </plugin>
 		</plugins>
 	</build>
 
